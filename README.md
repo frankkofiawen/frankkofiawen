@@ -1,21 +1,12 @@
 <div align="center">
 
-<img src="banner.png" alt="Frank Kofi Awen Banner" width="100%">
+<img src="assets/banner.png" alt="Frank Kofi Awen Banner" width="100%">
 
 # 👋 Hi, I'm Frank Kofi Awen
 
 ### 🛡️ Junior SOC Analyst | Cybersecurity Analyst | Threat Detection | Incident Response
 
 I'm an aspiring cybersecurity professional based in Germany with a passion for defending systems, investigating security events, and continuously improving my skills through hands-on labs and real-world projects.
-<p align="center">
-  <a href="https://linkedin.com/in/awenfrank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/frankkofiawen">
-    <img src="https://img.shields.io/badge/GitHub-frankkofiawen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank%20Kofi%20Awen-blue?logo=linkedin)](https://linkedin.com/in/awenfrank)
 [![GitHub](https://img.shields.io/badge/GitHub-frankkofiawen-black?logo=github)](https://github.com/frankkofiawen)
