@@ -1,20 +1,26 @@
-# Hi there 👋 I'm Frank Kofi Awen
+<div align="center">
 
-🛡️ Junior SOC Analyst | Cybersecurity Analyst | Threat Detection | Incident Response
+# 👋 Hi, I'm Frank Kofi Awen
 
-I'm an aspiring cybersecurity professional based in Germany with a strong interest in Security Operations, Threat Detection, Incident Response, and Defensive Security.
+### 🛡️ Junior SOC Analyst | Cybersecurity Analyst | Threat Detection | Incident Response
 
-I'm passionate about protecting systems, investigating security events, and continuously improving my technical skills through hands-on labs and real-world projects.
+I'm an aspiring cybersecurity professional based in Germany with a passion for defending systems, investigating security events, and continuously improving my skills through hands-on labs and real-world projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank%20Kofi%20Awen-blue?logo=linkedin)](https://linkedin.com/in/awenfrank)
+[![GitHub](https://img.shields.io/badge/GitHub-frankkofiawen-black?logo=github)](https://github.com/frankkofiawen)
 
 ---
 
+</div>
+
 ## 👨‍💻 About Me
 
+- 🛡️ Junior Cybersecurity Professional
 - 🎓 M.A. in Public Economics, Law and Politics – Leuphana University, Germany
-- 🛡️ CompTIA Security+
-- 🛡️ ISC2 Certified in Cybersecurity (CC)
-- 🌍 Based in Germany
-- 💼 Seeking opportunities as a SOC Analyst or Cybersecurity Analyst
+- 📍 Based in Germany
+- 🏆 CompTIA Security+
+- 🏆 ISC2 Certified in Cybersecurity (CC)
+- 💼 Open to SOC Analyst, Cybersecurity Analyst, and Blue Team opportunities
 
 ---
 
@@ -28,45 +34,42 @@ I'm passionate about protecting systems, investigating security events, and cont
 - Azure Security
 - Incident Response
 - Splunk
+- Python Security Automation
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
 ### Security
-
 - Security Operations (SOC)
 - Threat Detection
 - Incident Response
 - Threat Hunting
 - SIEM
-- Vulnerability Assessment
 - Network Security
+- Vulnerability Assessment
 - MITRE ATT&CK Framework
 
 ### Tools
-
 - Microsoft Sentinel
-- Microsoft Defender
+- Microsoft Defender XDR
 - Wireshark
 - Nmap
 - Burp Suite
-- Kali Linux
 - Metasploit
-- Git & GitHub
+- Kali Linux
+- Git
+- GitHub
 
 ### Programming
-
 - Python
 - Bash
 
 ### Operating Systems
-
 - Windows
 - Linux
 
 ### Networking
-
 - TCP/IP
 - DNS
 - DHCP
@@ -87,26 +90,39 @@ I'm passionate about protecting systems, investigating security events, and cont
 
 ## 🚀 Featured Projects
 
-I'm currently building practical cybersecurity projects including:
+I'm currently building practical cybersecurity projects that demonstrate real-world defensive security skills.
+
+Upcoming repositories include:
 
 - 🛡️ Microsoft Sentinel SOC Lab
-- 🔎 Threat Hunting with KQL
-- 🖥️ Windows Event Log Analysis
-- 🐍 Python Security Automation
-- 🌐 Network Traffic Analysis
-- 🧪 TryHackMe Labs
-
-Stay tuned as I continue adding new projects.
-
----
-
-## 📈 Career Goal
-
-My goal is to build a career in Security Operations where I can help organizations detect, investigate, and respond to cyber threats while continuously developing my technical expertise.
+- 🔍 Threat Hunting with KQL
+- 🪟 Windows Event Log Analysis
+- 🐍 Python Log Analyzer
+- 🌐 Network Traffic Analysis with Wireshark
+- 🖥️ Active Directory Home Lab
+- 🔐 Microsoft Defender XDR Investigations
+- 🧪 TryHackMe Walkthroughs
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Career Goal
 
-- 💼 LinkedIn: https://linkedin.com/in/awenfrank
-- 🌐 Website: https://frankkofiawen.com
+My goal is to build a career in Security Operations, helping organizations detect, investigate, and respond to cyber threats while continuously expanding my expertise in Blue Team operations.
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: https://linkedin.com/in/awenfrank
+
+🌐 Website: https://frankkofiawen.com
+
+📧 Feel free to connect with me to discuss cybersecurity, collaborate on projects, or explore professional opportunities.
+
+---
+
+<div align="center">
+
+*"Security is not a product, but a process."* — Bruce Schneier
+
+</div>
