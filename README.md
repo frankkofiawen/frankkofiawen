@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Frank Kofi Awen
 
-### 🛡️ Junior SOC Analyst | Cybersecurity Analyst | Penetration Tester | Ethnical Hacker
+🛡️ Junior SOC Analyst | Cybersecurity Analyst | Threat Detection | Incident Response
 
 I'm an aspiring cybersecurity professional based in Germany with a strong interest in Security Operations, Threat Detection, Incident Response, and Defensive Security.
 
